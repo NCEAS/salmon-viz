@@ -22,17 +22,6 @@ This is a [Shiny App](https://shiny.posit.co/) built using the [Shiny R packa
 
 The app is currently configured to run in a R Studio project by running ‘app.R’.
 
-## Usage Example
-
-To view more details about the Public API - see 'hashstore.py` interface documentation
-
-```py
-from product import Product
-
-# Example code here...
-
-```
-
 ## License
 ```
 Copyright [2024] [Regents of the University of California]
