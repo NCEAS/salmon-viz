@@ -60,6 +60,7 @@ Work on this package was supported by:
 
 - DataONE Network
 - Arctic Data Center: NSF-PLR grant #2042102 to M. B. Jones, A. Budden, M. Schildhauer, and J. Dozier
+- Research Networking Activities in Support of Sustained Coordinated Observations of Arctic Change: NSF grant #1936805 to H. Eicken T. S. Rupp, and O. Lee.
 
 Additional support was provided for collaboration by the National Center for Ecological Analysis and Synthesis, a Center funded by the University of California, Santa Barbara, and the State of California.
 
