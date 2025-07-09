@@ -1,6 +1,6 @@
 ## salmon-viz: A Shiny app for salmon data vizualization
 
-- **Authors**: Last, First (ORCID); ...
+- **Authors**: Klope, Maggie (0000-0003-3926-7039); Jones, Matthew B. (0000-0003-0077-4738)
 - **License**: [Apache 2](http://opensource.org/licenses/Apache-2.0)
 - [Package source code on GitHub](https://github.com/NCEAS/salmon-viz)
 - [**Submit Bugs and feature requests**](https://github.com/NCEAS/salmon-viz/issues)
