@@ -18,14 +18,9 @@ Documentation is a work in progress, and can be found ...
 
 ## Development build
 
-This is a python package, and built using the [Python Poetry](https://python-poetry.org) build tool.
+This is a [Shiny App](https://shiny.posit.co/) built using the [Shiny R package](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/).
 
-To install locally, create a virtual environment for python 3.9+, 
-install poetry, and then install or build the package with `poetry install` or `poetry build`, respectively.
-
-To run tests, navigate to the root directory and run `pytest -s`. The test suite contains tests that
-take a longer time to run (relating to the storage of large files) - to execute all tests, run
-`pytest --run-slow`. To see detailed
+The app is currently configured to run in a R Studio project by running ‘app.R’.
 
 ## Usage Example
 
