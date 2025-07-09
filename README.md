@@ -7,7 +7,7 @@
 - Contact us: support@dataone.org
 - [DataONE discussions](https://github.com/DataONEorg/dataone/discussions)
 
-*Product overview goes here.* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+As part of the [RNA-CoObs project’s](https://sites.google.com/alaska.edu/rna-observations/) [knowledge portal task team](https://sites.google.com/alaska.edu/rna-observations/task-teams/planning-for-an-information-portal?authuser=0), NCEAS is developing a shiny app to explore and solicit feedback on potential salmon knowledge portal design features.
 
 DataONE in general, and salmon-viz in particular, are open source, community projects.  We [welcome contributions](./CONTRIBUTING.md) in many forms, including code, graphics, documentation, bug reports, testing, etc.  Use the [DataONE discussions](https://github.com/DataONEorg/dataone/discussions) to discuss these contributions with us.
 
